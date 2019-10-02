@@ -65,7 +65,5 @@ while True:
     print(record.UnitPrice)
 
 
-# Fetch some data using for loops.
-
 
 
